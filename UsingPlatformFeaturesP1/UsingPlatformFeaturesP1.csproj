@@ -4,6 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>48e67331-4057-4396-9397-b386fbd57728</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\static.html" />
+  </ItemGroup>
 
 </Project>
